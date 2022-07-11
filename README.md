@@ -15,5 +15,5 @@ The ESP 32 functions as the access point for the android device to connect to us
 # G-Bot Schematic
 ![GBot Schematic Diagram](https://user-images.githubusercontent.com/25701097/178191821-4df87a0a-363c-4762-84dc-7cb22d1b18c0.png)
 
-# Chassis
+# Robot
 ![GBot Chassis](https://user-images.githubusercontent.com/25701097/178191844-8dbade05-3f94-4e21-9ae3-3f7d9c77a1ac.png)
